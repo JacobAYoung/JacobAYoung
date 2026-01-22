@@ -1,4 +1,4 @@
-# Hi there, I'm Jacob! 👋
+# Hi there, I'm Jake! 👋
 
 ## 🚀 About Me
 - 🔭 I'm currently working on [private stuff]
